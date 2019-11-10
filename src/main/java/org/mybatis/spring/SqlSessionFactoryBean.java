@@ -149,7 +149,7 @@ public class SqlSessionFactoryBean
    *          a custom ObjectFactory
    */
   public void setObjectFactory(ObjectFactory objectFactory) {
-    this.objectFactory = objectFactory;
+      this.objectFactory = objectFactory;
   }
 
   /**
